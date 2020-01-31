@@ -70,7 +70,7 @@ def exercise04():
 
 def exercise05():
 
-    # Repeate exercise 4 here and assign the datatype of the variable first_name to a variable called name_type
+    # Repeat exercise 4 here and assign the datatype of the variable first_name to a variable called name_type
 
     # ------ Place code below here \/ \/ \/ ------
 
